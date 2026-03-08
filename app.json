@@ -1,8 +1,8 @@
 {
-  "name": "POPKID-XTR",
-  "description": "WhatsApp bot made by Popkid from Kenya",
-  "logo": "https://files.catbox.moe/kiy0hl.jpg",
-  "keywords": ["POPKID-XTR"],
+  "name": "MIDORYA",
+  "description": "WhatsApp bot made by GREAMEK from NIGERIA",
+  "logo": "https://files.catbox.moe/vwa1wy.jpg",
+  "keywords": ["MIDORYA"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": true,
-      "value": "POPKID-XTR"
+      "value": "MIDORYA"
     }, 
     "CUSTOM_STATUS_EMOJIS": {
       "description": "Feed in emojis of your desire for status reactions (Old Key).",
