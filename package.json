@@ -1,7 +1,7 @@
 {
-  "name": "POPKID",
+  "name": "MIDORYA",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By POPKID",
+  "description": "A WhatsApp Bot Created By GREAMEK",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
